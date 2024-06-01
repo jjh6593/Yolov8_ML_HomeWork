@@ -1,0 +1,14 @@
+names:
+- book
+- keyboard
+- mouse
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: homework-k7o6f
+  url: https://universe.roboflow.com/machinelearningtask-fdjiv/homework-k7o6f/dataset/3
+  version: 3
+  workspace: machinelearningtask-fdjiv
+test: C:/Users/Administrator/Desktop/4학년/기계학습/과제/Untitled Folder/Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models/Homework-3/test/images
+train: C:/Users/Administrator/Desktop/4학년/기계학습/과제/Untitled Folder/Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models/Homework-3/train/images
+val: C:/Users/Administrator/Desktop/4학년/기계학습/과제/Untitled Folder/Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models/Homework-3/valid/images
